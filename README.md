@@ -86,7 +86,7 @@ Dogechain Wallet is not affiliated with **dogechain.info** (a custodial web wall
 
 ---
 
-## Support
+## Support.
 
 Open an [issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues) for bugs or feature requests.
 
