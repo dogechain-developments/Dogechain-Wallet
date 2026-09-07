@@ -90,6 +90,6 @@ Dogechain Wallet is not affiliated with **dogechain.info** (a custodial web wall
 
 Open an [issue](https://github.com/dogechain-developments/Dogechain-Wallet/issues) for bugs or feature requests.
 
-## License
+## License.
 
 [MIT](https://github.com/dogechain-developments/Dogechain-Wallet/blob/main/LICENSE)
