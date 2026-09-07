@@ -76,7 +76,7 @@ If the AppImage fails to launch in a sandboxed environment, add `--no-sandbox`. 
 
 ---
 
-## Security
+## Security.
 
 **Dogechain Wallet cannot recover your funds if you lose your seed phrase — no one can.** Write down your 12-word seed phrase on paper and store it somewhere secure. Never store it digitally — not in a screenshot, a notes app, or cloud storage.
 
