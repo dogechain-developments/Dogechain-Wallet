@@ -44,7 +44,7 @@ Verify all files against the SHA-256 values below.
 
 ---
 
-## 🧰 Install
+## 🧰 Install.
 
 <details open>
 <summary>🪟 Windows 10 or later</summary>
